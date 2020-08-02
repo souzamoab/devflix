@@ -1,19 +1,19 @@
 import React from 'react';
-import Menu from './components/Menu';
-import BannerMain from './components/BannerMain';
-import Carousel from './components/Carousel';
-import Footer from './components/Footer';
-import dadosIniciais from './data/dados_iniciais.json';
+import Menu from '../../components/Menu';
+import BannerMain from '../../components/BannerMain';
+import Carousel from '../../components/Carousel';
+import Footer from '../../components/Footer';
+import dadosIniciais from '../../data/dados_iniciais.json';
 
-function App() {
+function Home() {
   return (
     <div style={{ backgroundColor: "#141414"}}>
       <Menu />
 
-      <BannerMain 
+      <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"O bom, velho e onipresente Java! É fácil de aprender? Como é programar em Java? Roberta e Paulo debatem sobre suas experiências com essa linguagem querida e famosa neste vídeo."}
       />
 
       <Carousel 
@@ -22,27 +22,22 @@ function App() {
       />
 
       <Carousel 
-        ignoreFirstVideo
         category={dadosIniciais.categorias[1]}
       />
 
       <Carousel 
-        ignoreFirstVideo
         category={dadosIniciais.categorias[2]}
       />
 
       <Carousel 
-        ignoreFirstVideo
         category={dadosIniciais.categorias[3]}
       />
 
       <Carousel 
-        ignoreFirstVideo
         category={dadosIniciais.categorias[4]}
       />
 
       <Carousel 
-        ignoreFirstVideo
         category={dadosIniciais.categorias[5]}
       />
 
@@ -52,4 +47,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;

@@ -1,12 +1,13 @@
 import React from 'react';
 import { FooterBase } from './styles';
+import Button from '../Button';
 
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
-      </a>
+      <Button style={{ backgroundColor: "#10669a", fontSize: "20px"}} as="a" href="https://github.com/souzamoab">
+        Moab Souza
+      </Button>
       <p>
         Orgulhosamente criado durante a
         {' '}

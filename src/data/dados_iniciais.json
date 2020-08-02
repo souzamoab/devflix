@@ -1,183 +1,162 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "titulo": "Java",
+      "cor": "#10669a",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O que é Java?",
+          "url": "https://www.youtube.com/watch?v=90NcVNsKGik"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Java // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=sZAxLRMxEUo"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Java é lento? JIT e Otimizações na Java Virtual Machine",
+          "url": "https://www.youtube.com/watch?v=rrhO_P0IM3s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Java em 2020 vale a pena?",
+          "url": "https://www.youtube.com/watch?v=fMdVW91QOus"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Learn Java in 3 hours",
+          "url": "https://www.youtube.com/watch?v=_73sZ-BUZXI"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Conhecimento Java para automatizar testes no Selenium WebDriver",
+          "url": "https://www.youtube.com/watch?v=YPTlx9vbikM"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Como se tornar um programador Java: Primeiros passos",
+          "url": "https://www.youtube.com/watch?v=r4SVvggzq8I"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Java Tutorial for Beginners [2020]",
+          "url": "https://www.youtube.com/watch?v=eIrMbAQSU34"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "Javascript",
+      "cor": "#e9ca32",
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O que é JavaScript? | #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Comece a programar com Javascript - Alura Live #26",
+          "url": "https://www.youtube.com/watch?v=i5n8sN42kc8"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Quando escolher Javascript puro ou frameworks?",
+          "url": "https://www.youtube.com/watch?v=kZwSiKTreYo"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Formulário Animado com JS puro e CSS Animation | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=GykTLqODQuU"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Criando Player de Áudio com Javascript | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=vqrjFnq3-uo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Spring",
+      "cor": "#6cb33e",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "O que é Spring Boot e quais as vantagens de usá-lo?",
+          "url": "https://www.youtube.com/watch?v=ABjV1bObFW8"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "O que é Spring Framework? #Hipsterspontotube",
+          "url": "https://www.youtube.com/watch?v=5XPojnx9bb8"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Spring Boot With MongoDB CRUD Example | Java Techie",
+          "url": "https://www.youtube.com/watch?v=k5PeywcbVYc"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Curso Spring Boot",
+          "url": "https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D"
+        },
+        {
+          "titulo": "O Spring Framework é gigante! Por onde começar?",
+          "url": "https://www.youtube.com/watch?v=i6utiLkv12s"
+        },
+        {
+          "titulo": "Por que aprender Spring?",
+          "url": "https://www.youtube.com/watch?v=mzHpKRN4_nQ"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "React",
+      "cor": "#6BD1FF",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "O que é React JS? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0&t=469s"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Preciso ter bagagem Javascript para iniciar com o React?",
+          "url": "https://www.youtube.com/watch?v=Y5QPsQ6IqKc"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Como está o mercado de trabalho do React?",
+          "url": "https://www.youtube.com/watch?v=TlmYkKQJOQA"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Iniciando no ReactJS | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q"
+        },
+        {
+          "titulo": "React Native // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=mqltv3kFdgE"
+        },
+        {
+          "titulo": "Entendendo o FlexBox no React Native | Diego Fernandes",
+          "url": "youtube.com/watch?v=dUkkOdhyO1w&list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k&index=5"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Git",
+      "cor": "#e4955a",
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=2alg7MQ6_sI"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "O que são Git e Github? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=P4BNi_yPehc"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Git // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=za5KWZ5pRag"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "REST",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "REST // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=S7MduKwvVGk&t=268s"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "O que é API? REST e RESTful? | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=ghTrp1x_1As&t=888s"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Por que você deve aprender REST?",
+          "url": "https://www.youtube.com/watch?v=P6GcoLU0iCo"
         }
       ]
     }
