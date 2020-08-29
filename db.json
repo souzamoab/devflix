@@ -1,222 +1,228 @@
 {
-    "categorias": [
-      {
-        "id": 1,
-        "titulo": "Java",
-        "cor": "#10669a"
-      },
-      {
-        "id": 2,
-        "titulo": "Javascript",
-        "cor": "#e9ca32"
-      },
-      {
-        "id": 3,
-        "titulo": "Spring",
-        "cor": "#6cb33e"
-      },
-      {
-        "id": 4,
-        "titulo": "React",
-        "cor": "#6BD1FF"
-      },
-      {
-        "id": 5,
-        "titulo": "Git",
-        "cor": "#e4955a"
-      },
-      {
-        "id": 6,
-        "titulo": "REST",
-        "cor": "#6b5be2"
-      }
-    ],
-    "videos": [
-      {
-        "id": 1,
-        "categoriaId": 1,
-        "titulo": "O que é Java?",
-        "url": "https://www.youtube.com/watch?v=90NcVNsKGik"
-      },
-      {
-        "id": 2,
-        "categoriaId": 1,
-        "titulo": "Java // Dicionário do Programador",
-        "url": "https://www.youtube.com/watch?v=sZAxLRMxEUo"
-      },
-      {
-        "id": 3,
-        "categoriaId": 1,
-        "titulo": "Java é lento? JIT e Otimizações na Java Virtual Machine",
-        "url": "https://www.youtube.com/watch?v=rrhO_P0IM3s"
-      },
-      {
-        "id": 4,
-        "categoriaId": 1,
-        "titulo": "Java em 2020 vale a pena?",
-        "url": "https://www.youtube.com/watch?v=fMdVW91QOus"
-      },
-      {
-        "id": 5,
-        "categoriaId": 1,
-        "titulo": "Learn Java in 3 hours",
-        "url": "https://www.youtube.com/watch?v=_73sZ-BUZXI"
-      },
-      {
-        "id": 6,
-        "categoriaId": 1,
-        "titulo": "Conhecimento Java para automatizar testes no Selenium WebDriver",
-        "url": "https://www.youtube.com/watch?v=YPTlx9vbikM"
-      },
-      {
-        "id": 7,
-        "categoriaId": 1,
-        "titulo": "Como se tornar um programador Java: Primeiros passos",
-        "url": "https://www.youtube.com/watch?v=r4SVvggzq8I"
-      },
-      {
-        "id": 8,
-        "categoriaId": 1,
-        "titulo": "Java Tutorial for Beginners [2020]",
-        "url": "https://www.youtube.com/watch?v=eIrMbAQSU34"
-      },
-      {
-        "id": 9,
-        "categoriaId": 2,
-        "titulo": "O que é JavaScript? | #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q"
-      },
-      {
-        "id": 10,
-        "categoriaId": 2,
-        "titulo": "Comece a programar com Javascript - Alura Live #26",
-        "url": "https://www.youtube.com/watch?v=i5n8sN42kc8"
-      },
-      {
-        "id": 11,
-        "categoriaId": 2,
-        "titulo": "Quando escolher Javascript puro ou frameworks?",
-        "url": "https://www.youtube.com/watch?v=kZwSiKTreYo"
-      },
-      {
-        "id": 12,
-        "categoriaId": 2,
-        "titulo": "Formulário Animado com JS puro e CSS Animation | Mayk Brito",
-        "url": "https://www.youtube.com/watch?v=GykTLqODQuU"
-      }, 
-      {
-        "id": 13,
-        "categoriaId": 2,
-        "titulo": "Criando Player de Áudio com Javascript | Mayk Brito",
-        "url": "https://www.youtube.com/watch?v=vqrjFnq3-uo"
-      },
-      {
-        "id": 14,
-        "categoriaId": 3,
-        "titulo": "O que é Spring Boot e quais as vantagens de usá-lo?",
-        "url": "https://www.youtube.com/watch?v=ABjV1bObFW8"
-      },
-      {
-        "id": 15,
-        "categoriaId": 3,
-        "titulo": "O que é Spring Framework? #Hipsterspontotube",
-        "url": "https://www.youtube.com/watch?v=5XPojnx9bb8"
-      },
-      {
-        "id": 16,
-        "categoriaId": 3,
-        "titulo": "Spring Boot With MongoDB CRUD Example | Java Techie",
-        "url": "https://www.youtube.com/watch?v=k5PeywcbVYc"
-      },
-      {
-        "id": 17,
-        "categoriaId": 3,
-        "titulo": "Curso Spring Boot",
-        "url": "https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D"
-      },
-      {
-        "id": 18,
-        "categoriaId": 3,
-        "titulo": "O Spring Framework é gigante! Por onde começar?",
-        "url": "https://www.youtube.com/watch?v=i6utiLkv12s"
-      },
-      {
-        "id": 19,
-        "categoriaId": 3,
-        "titulo": "Por que aprender Spring?",
-        "url": "https://www.youtube.com/watch?v=mzHpKRN4_nQ"
-      },
-      {
-        "id": 20,
-        "categoriaId": 4,
-        "titulo": "O que é React JS? #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0&t=469s"
-      },
-      {
-        "id": 21,
-        "categoriaId": 4,
-        "titulo": "Preciso ter bagagem Javascript para iniciar com o React?",
-        "url": "https://www.youtube.com/watch?v=Y5QPsQ6IqKc"
-      },
-      {
-        "id": 22,
-        "categoriaId": 4,
-        "titulo": "Como está o mercado de trabalho do React?",
-        "url": "https://www.youtube.com/watch?v=TlmYkKQJOQA"
-      },
-      {
-        "id": 23,
-        "categoriaId": 4,
-        "titulo": "Iniciando no ReactJS | Diego Fernandes",
-        "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q"
-      },
-      {
-        "id": 24,
-        "categoriaId": 4,
-        "titulo": "React Native // Dicionário do Programador",
-        "url": "https://www.youtube.com/watch?v=mqltv3kFdgE"
-      },
-      {
-        "id": 25,
-        "categoriaId": 4,
-        "titulo": "Entendendo o FlexBox no React Native | Diego Fernandes",
-        "url": "youtube.com/watch?v=dUkkOdhyO1w&list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k&index=5"
-      },
-      {
-        "id": 26,
-        "categoriaId": 5,
-        "titulo": "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
-        "url": "https://www.youtube.com/watch?v=2alg7MQ6_sI"
-      },
-      {
-        "id": 27,
-        "categoriaId": 5,
-        "titulo": "O que são Git e Github? #HipstersPontoTube",
-        "url": "https://www.youtube.com/watch?v=P4BNi_yPehc"
-      },
-      {
-        "id": 28,
-        "categoriaId": 5,
-        "titulo": "Git // Dicionário do Programador",
-        "url": "https://www.youtube.com/watch?v=za5KWZ5pRag"
-      },
-      {
-        "id": 29,
-        "categoriaId": 6,
-        "titulo": "REST // Dicionário do Programador",
-        "url": "https://www.youtube.com/watch?v=S7MduKwvVGk&t=268s"
-      },
-      {
-        "id": 30,
-        "categoriaId": 6,
-        "titulo": "O que é API? REST e RESTful? | Mayk Brito",
-        "url": "https://www.youtube.com/watch?v=ghTrp1x_1As&t=888s"
-      },
-      {
-        "id": 31,
-        "categoriaId": 6,
-        "titulo": "Por que você deve aprender REST?",
-        "url": "https://www.youtube.com/watch?v=P6GcoLU0iCo"
-      }        
-    ]
-  }
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Java",
+      "cor": "#10669a"
+    },
+    {
+      "id": 2,
+      "titulo": "Javascript",
+      "cor": "#e9ca32"
+    },
+    {
+      "id": 3,
+      "titulo": "Spring",
+      "cor": "#6cb33e"
+    },
+    {
+      "id": 4,
+      "titulo": "React",
+      "cor": "#6BD1FF"
+    },
+    {
+      "id": 5,
+      "titulo": "Git",
+      "cor": "#e4955a"
+    },
+    {
+      "id": 6,
+      "titulo": "REST",
+      "cor": "#6b5be2"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "O que é Java?",
+      "url": "https://www.youtube.com/watch?v=90NcVNsKGik"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Java // Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=sZAxLRMxEUo"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Java é lento? JIT e Otimizações na Java Virtual Machine",
+      "url": "https://www.youtube.com/watch?v=rrhO_P0IM3s"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Java em 2020 vale a pena?",
+      "url": "https://www.youtube.com/watch?v=fMdVW91QOus"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Learn Java in 3 hours",
+      "url": "https://www.youtube.com/watch?v=_73sZ-BUZXI"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Conhecimento Java para automatizar testes no Selenium WebDriver",
+      "url": "https://www.youtube.com/watch?v=YPTlx9vbikM"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Como se tornar um programador Java: Primeiros passos",
+      "url": "https://www.youtube.com/watch?v=r4SVvggzq8I"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Java Tutorial for Beginners [2020]",
+      "url": "https://www.youtube.com/watch?v=eIrMbAQSU34"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "O que é JavaScript? | #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Comece a programar com Javascript - Alura Live #26",
+      "url": "https://www.youtube.com/watch?v=i5n8sN42kc8"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Quando escolher Javascript puro ou frameworks?",
+      "url": "https://www.youtube.com/watch?v=kZwSiKTreYo"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Formulário Animado com JS puro e CSS Animation | Mayk Brito",
+      "url": "https://www.youtube.com/watch?v=GykTLqODQuU"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Criando Player de Áudio com Javascript | Mayk Brito",
+      "url": "https://www.youtube.com/watch?v=vqrjFnq3-uo"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "O que é Spring Boot e quais as vantagens de usá-lo?",
+      "url": "https://www.youtube.com/watch?v=ABjV1bObFW8"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "O que é Spring Framework? #Hipsterspontotube",
+      "url": "https://www.youtube.com/watch?v=5XPojnx9bb8"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Spring Boot With MongoDB CRUD Example | Java Techie",
+      "url": "https://www.youtube.com/watch?v=k5PeywcbVYc"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Curso Spring Boot",
+      "url": "https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "O Spring Framework é gigante! Por onde começar?",
+      "url": "https://www.youtube.com/watch?v=i6utiLkv12s"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "Por que aprender Spring?",
+      "url": "https://www.youtube.com/watch?v=mzHpKRN4_nQ"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "O que é React JS? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0&t=469s"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Preciso ter bagagem Javascript para iniciar com o React?",
+      "url": "https://www.youtube.com/watch?v=Y5QPsQ6IqKc"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Como está o mercado de trabalho do React?",
+      "url": "https://www.youtube.com/watch?v=TlmYkKQJOQA"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "Iniciando no ReactJS | Diego Fernandes",
+      "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "React Native // Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=mqltv3kFdgE"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "Entendendo o FlexBox no React Native | Diego Fernandes",
+      "url": "youtube.com/watch?v=dUkkOdhyO1w&list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k&index=5"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
+      "url": "https://www.youtube.com/watch?v=2alg7MQ6_sI"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "O que são Git e Github? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=P4BNi_yPehc"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Git // Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=za5KWZ5pRag"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "REST // Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=S7MduKwvVGk&t=268s"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "O que é API? REST e RESTful? | Mayk Brito",
+      "url": "https://www.youtube.com/watch?v=ghTrp1x_1As&t=888s"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "Por que você deve aprender REST?",
+      "url": "https://www.youtube.com/watch?v=P6GcoLU0iCo"
+    },
+    {
+      "titulo": "Titulo padrão",
+      "url": "https://www.youtube.com/watch?v=k5PeywcbVYc",
+      "categoriaId": 3,
+      "id": 32
+    }
+  ]
+}
